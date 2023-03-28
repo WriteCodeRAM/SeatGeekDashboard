@@ -29,8 +29,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [x] List anything else that you added to improve the site's functionality!
-      - [x] Added a home menu which displays the each event on its own card for a more in depth look.
-      - [x] Added reset filter functionality.
+ - [x] Added a home menu which displays each event on its own card for a more in depth look.
+ - [x] Added reset filter functionality.
 
 ## Video Walkthrough
 
