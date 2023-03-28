@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/WriteCodeRAM/seatGeekDashboard/blob/main/dataDashboard.gif' />
+<img src='https://github.com/WriteCodeRAM/seatGeekDashboard/blob/main/seetgeekDashboard.gif' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCAP  
