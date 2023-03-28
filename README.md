@@ -1,4 +1,4 @@
-# Web Development Project 5 - *Name of App Here*
+# Web Development Project 5 - *SeatGeek Dashboard*
 
 Submitted by: **Randal Ary Michel**
 
